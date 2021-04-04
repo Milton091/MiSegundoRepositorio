@@ -1,8 +1,3 @@
-//Código de la Sesión de la asesoría #2 del Módulo 2
-
-//Para ejecutar este programa debemos poner en consola:
-//node ejercicioRepasoS2.js
-
 //Crea un programa en donde tengas que adivinar 
 //las letras de una palabra de 4 letras, tendrás solo 
 //4 intentos para adivinarla, en un inicio la palabra 
@@ -109,3 +104,5 @@ if( (contadorFallas == 0 && contadorAciertos < 4) || (contadorFallas < 4 && cont
 else if ( contadorAciertos == 4){
     console.log( "GANASTE, Adivinaste toda la palabra :D" );
 }
+
+//Un comentario
